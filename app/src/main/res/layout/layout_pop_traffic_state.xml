@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#66000000">
+    <TextView
+        android:id="@+id/tv_traffic_pop_layout" 
+        android:layout_width="50dp"
+        android:layout_height="20dp"
+        android:textSize="12dp"
+        android:singleLine="true"
+        android:gravity="center"
+        android:textColor="#ffffff"/>
+</RelativeLayout>
